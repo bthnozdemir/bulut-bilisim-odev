@@ -1,13 +1,14 @@
-# ISE 465 Bulut Bilişim Dersi Ödevi
+# ISE Bulut Bilişim Dersi Ödevi
 
 ## Proje Bilgileri
-- **Öğrenci:** [Adın Soyadın]
+- **Öğrenci:**Batuhan Özdemir
+-**Numara:**B231200372
 - **Uygulama:** Flask Web Uygulaması
 - **Platform:** AWS EC2 (t3.micro)
 - **Region:** EU Central (Frankfurt)
 
 ## Canlı Demo
-🚀 **Uygulama Adresi:** http://3.72.16.108:8080
+**Uygulama Adresi:** http://3.72.16.108:8080
 
 ## Teknolojiler
 - Python 3
