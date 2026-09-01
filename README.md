@@ -1,8 +1,6 @@
 # ISE Bulut Bilişim Dersi Ödevi
 
 ## Proje Bilgileri
-- **Öğrenci:**Batuhan Özdemir
--**Numara:**B231200372
 - **Uygulama:** Flask Web Uygulaması
 - **Platform:** AWS EC2 (t3.micro)
 - **Region:** EU Central (Frankfurt)
